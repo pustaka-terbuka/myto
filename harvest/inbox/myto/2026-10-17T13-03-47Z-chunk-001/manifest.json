@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "myto",
+  "source_name": "Malaysian Theses Online (PNM / PERPUN)",
+  "source_base_url": "https://myto.pnm.gov.my/",
+  "terms_url": "https://myto.pnm.gov.my/",
+  "terms_verified_on": "2026-10-17",
+  "harvester_name": "myto-koha-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-17T13-03-47Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-17T13:04:07.826Z",
+  "finished_at": "2026-10-17T13:04:07.826Z",
+  "record_count": 290000,
+  "error_count": 0,
+  "status": "complete",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/myto; contact@pustakaterbuka.org)",
+  "notes": "MYTO harvest finished. Total: 290000 records."
+}

@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "source_code": "myto",
+  "agency_code": "MYTO",
+  "run_id": "2026-10-17T03-20-12Z",
+  "chunk_index": 1,
+  "total_records": 500,
+  "completed_at": "2026-10-17T03:20:13.010Z",
+  "harvester": {
+    "name": "myto-koha-harvester",
+    "version": "1.0.0"
+  },
+  "batches": [
+    {
+      "file": "batch_0.xml",
+      "records": 100,
+      "sha256": "4aca37c7a212f6588042ba4974a8548af3e1b271dedf7367cd1d91e4cf5759fa"
+    },
+    {
+      "file": "batch_1.xml",
+      "records": 100,
+      "sha256": "efdefa2069b5461237ebb97817bb1929c8d6c59f6cd8f446ecaf09e744f9e826"
+    },
+    {
+      "file": "batch_2.xml",
+      "records": 100,
+      "sha256": "d5eef40e3a1b1d95049653719cc783489a49a2a24534b7aaf0e9188e549cfd48"
+    },
+    {
+      "file": "batch_3.xml",
+      "records": 100,
+      "sha256": "0df41e9bdec98a928e9b60aa6abc865ee9ecd514e1d82a863295f52625dd8d4a"
+    },
+    {
+      "file": "batch_4.xml",
+      "records": 100,
+      "sha256": "923c2c6f42314c9b56de733f383ea7ab93ba073365524d4e78e208ee91f05652"
+    }
+  ]
+}
